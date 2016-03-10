@@ -1,0 +1,75 @@
+#google_map{
+  width: 400px; 
+  height: 300px; 
+  /*frameborder:0px;*/
+  border:0;
+  margin-left: 150px;
+}
+
+#locationArrow {
+ height: auto;
+ width: auto;
+ max-height: 15px;
+ max-width: 15px;
+}
+
+.inputLocation {
+ margin-bottom: 20px;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+  margin-left: 600px;
+}
+
+#get_location{
+  margin-left: 525px;
+}
+
+#align {
+  text-align: center;
+}
+
+#colDealDiv {
+ margin-bottom: 40px;
+ margin-top: 40px;
+}
+
+#colCouponDiv {
+ margin-bottom: 40px;
+ margin-top: 40px;
+}
+
+.panel {
+ border: 1px solid black;
+}
+
+a:link {
+ color: white;
+ font-size: 1.3em;
+}
+
+a:visited {
+ text-decoration: none;
+}
+
+a:hover {
+ color: black;
+}
+
+h3 {
+ font-family: "Baskerville";
+ font-size: 1.6em;
+}
+
+.panel-body p {
+ font-family: "Libre";
+ font-size: 1.6em;
+}
+.panel-footer p {
+ font-family: "Libre";
+ font-size: 1.2em;
+}
+
+img {
+
+}
